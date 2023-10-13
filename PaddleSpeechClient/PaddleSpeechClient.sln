@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaddleSpeechClient", "PaddleSpeechClient.csproj", "{46CE505A-F557-4CDF-BA3E-5FDF82167846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "..\Example\Example.csproj", "{A8A51169-1BB3-4992-9BC2-1CEEF01A86B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46CE505A-F557-4CDF-BA3E-5FDF82167846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CE505A-F557-4CDF-BA3E-5FDF82167846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CE505A-F557-4CDF-BA3E-5FDF82167846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CE505A-F557-4CDF-BA3E-5FDF82167846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A51169-1BB3-4992-9BC2-1CEEF01A86B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A51169-1BB3-4992-9BC2-1CEEF01A86B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A51169-1BB3-4992-9BC2-1CEEF01A86B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A51169-1BB3-4992-9BC2-1CEEF01A86B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28BF3F74-E6D9-4AF1-89AB-E9B4298E3161}
+	EndGlobalSection
+EndGlobal
